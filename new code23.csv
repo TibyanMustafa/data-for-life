@@ -1,4 +1,4 @@
-"pore number density, N (pores/m3)", t ,v, alpha, bu 
+N , t ,v, alpha, bu 
 0,0,0,0,0
 0.00E+00,1480950,1.39E+11,2.77E-07,1
 0.00E+00,2961900,1.27E+12,2.82E-06,2
